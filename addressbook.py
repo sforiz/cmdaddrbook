@@ -1,6 +1,6 @@
 """AddressBook class, and all basic operate.
 
-Author:twobackslash@gmail.com"""
+Author:dijunzhou@gmail.com"""
 
 import os
 import pickle
